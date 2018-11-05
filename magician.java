@@ -55,6 +55,7 @@ if(f[i]==s[j]){
 	break;
 	
 }else{
+	V=1;
 }
 }
 }
